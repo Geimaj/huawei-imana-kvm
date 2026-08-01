@@ -1,1 +1,2 @@
-# huawei-imana-kvm
+# setup 
+brew install --cask temurin@8
